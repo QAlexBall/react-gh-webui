@@ -1,7 +1,7 @@
 {
   "name": "react-gh-webui",
   "version": "0.1.0",
-  "homepage": "https://github.com/QAlexBall/react-gh-webui",
+  "homepage": "https://github.com/qalexball/react-gh-webui",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
